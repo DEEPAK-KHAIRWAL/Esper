@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Esper/precache-manifest.8cdf9c15cdb95c86b96dc59a30c6b4f1.js"
+  "/Esper/precache-manifest.f0897bace190cbb46a30fec98a1149e2.js"
 );
 
 self.addEventListener('message', (event) => {
